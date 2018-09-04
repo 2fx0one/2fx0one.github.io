@@ -11,6 +11,9 @@
     hexo init
     npm install
     npm install hexo-deployer-git
+
+    #next themes
+    git clone https://github.com/theme-next/hexo-theme-next themes/next
     
     ```
 
