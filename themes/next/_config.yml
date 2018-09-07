@@ -93,6 +93,7 @@ footer:
 # ---------------------------------------------------------------
 # SEO Settings
 # ---------------------------------------------------------------
+# ---------------------------------------------------------------
 
 # Canonical, set a canonical link tag in your hexo, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
@@ -118,9 +119,9 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  #about: /about/ || user
+  about: /about/ || user
   #tags: /tags/ || tags
-  #categories: /categories/ || th
+  categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
@@ -194,9 +195,9 @@ avatar:
   # in theme directory(source/images): /images/avatar.gif
   # in site  directory(source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: #/images/avatar.gif
+  url: https://avatars2.githubusercontent.com/u/5274589?s=460&v=4#/images/avatar.gif
   # If true, the avatar would be dispalyed in circle.
-  rounded: false
+  rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
   opacity: 1
   # If true, the avatar would be rotated with the cursor.
