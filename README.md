@@ -8,9 +8,9 @@
     git clone https://github.com/2fx0one/2fx0one.github.io
     cd 2fx0one.github.io
     npm install hexo
-    hexo init
+    # hexo init clone 不需要初始化
     npm install
-    npm install hexo-deployer-git
+    # npm install hexo-deployer-git
 
     #next themes
     git clone https://github.com/theme-next/hexo-theme-next themes/next
