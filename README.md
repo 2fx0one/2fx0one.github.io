@@ -1,5 +1,5 @@
 # 2fx0one.github.io
-[搭建参考：GitHub Pages + Hexo搭建博客](http://crazymilk.github.io)
+[搭建参考：GitHub Pages + Hexo搭建博客](https://zhuanlan.zhihu.com/p/26625249)
 
 # install
     默认分支是hexo
