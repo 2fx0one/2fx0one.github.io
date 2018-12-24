@@ -8,12 +8,12 @@
     git clone https://github.com/2fx0one/2fx0one.github.io
     cd 2fx0one.github.io
     npm install hexo
-    # hexo init clone 不需要初始化
+    #### hexo init clone 不需要初始化
     
     npm install hexo-deployer-git --save
     npm install hexo-browsersync --save
     
-    #MathJax
+    # MathJax
     npm install hexo-math --save
     npm un hexo-renderer-marked --save
     npm i hexo-renderer-pandoc --save
